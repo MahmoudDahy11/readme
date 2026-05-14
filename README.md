@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/dahycompany.png" alt="Dahy Factory Logo" width="120"/>
+  <img src="https://github.com/user-attachments/assets/9ea2d0eb-7f2a-43c9-bae6-72e0d95f4ad4" alt="dahycompany" width="80"/>
 </p>
 
 <h1 align="center">Dahy Factory Management System</h1>
