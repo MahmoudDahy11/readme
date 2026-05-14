@@ -252,4 +252,4 @@ Proprietary — All rights reserved. Built for a private client; not licensed fo
 ## Contact
 
 Built by **Mahmoud Dahy**
-📧 dahym2028@gmail.com | 💼 [linkedin.com/in/mahmoud-dahy](https://www.linkedin.com/in/mahmoud-dahy/) | 🐙 [github.com/MahmoudDahy11](https://github.com/MahmoudDahy11)
+📧 dahym2028@gmail.com | 💼 [linkedin.com/in/mahmoud-dahy](https://www.linkedin.com/in/mahmoud-dahy/) | 🐙 [github.com/MahmoudDahy11](https://github.com/MahmoudDahy11) | 🌐 [Portfolio](https://mahmouddahy.web.app/#/portfolio)
