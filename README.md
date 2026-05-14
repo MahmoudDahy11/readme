@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/9ea2d0eb-7f2a-43c9-bae6-72e0d95f4ad4" alt="dahycompany" width="80"/>
 </p>
 
-<h1 align="center">Dahy Factory Management System</h1>
+<h1 align="center">Factory Management System</h1>
 
 <p align="center">
   A production-grade, offline-first ERP built with Flutter — managing payroll, inventory, client orders, and financials across 6 platforms from a single codebase.
